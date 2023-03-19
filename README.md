@@ -185,12 +185,61 @@
     </li>
         <img src="Práctica Github 7.png"/><br/> 
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Crear una organización llamada **masteruah-tunombredeusuariodegithub**
     </li>
-        git commit -m "Commit inicial"
+        <b>Entramos al panel de control de perfil y seleccionamos "Your organizations".</b><br/>
+        <img src="Práctica Github 29.png"/><br/>
+        <b>Clickamos en "Create new organization".</b>
+        <br/><img src="Práctica Github 30.png"/><br/>
+        <b>Rellenamos los datos de la organización, y pinchamos en "Create". </b>
+        <br/><img src="Práctica Github 31.png"/><br/>
+        <br/><img src="Práctica Github 8.png"/><br/>
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**, uno llamado **administradores** con más <br/>   permisos y otro **colaboradores** con menos permisos.
     </li>
-        git commit -m "Commit inicial"    
+        <b>Entramos en el menú principal de la organización y seleccionamos "Teams", clickamos en "New Team".</b><br/>
+        <img src="Práctica Github 31.png"/><br/>
+        <b>Rellenamos los datos de los grupos y pinchamos en "Create team".</b>
+        <br/><img src="Práctica Github 32.png"/><br/>
+        <br/><img src="Práctica Github 9.png"/><br/> 
+        <b>(Como comprobamos en clase, no parece posible darles permisos a los grupos).</b>
+    <li>
+        Meter al profesor y a 2 de vuestros compañeros de clase en el equipo **administradores**
+    </li>
+        <b>+</b>
+    <li>
+        Meter al profesor y a otros 2 de vuestros compañeros de clase en el equipo **colaboradores**.
+    </li>
+        <br/><img src="Práctica Github 33.png"/><br/> 
+    <li>
+        Crear un index.html que se pueda ver como página web en la organización.
+    </li>
+        <br/><img src="Práctica Github 34.png"/><br/> 
+    <li>
+        Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io** de 2 organizaciones de las que no <br/>   seais ni administradiores ni colaboradores.
+    </li>
+        <br/><img src="Práctica Github 13.png"/><br/>    
+        <br/><img src="Práctica Github 15.png"/><br/>
+        <br/><img src="Práctica Github 17.png"/><br/>
+    <li>
+        Crearos una rama en cada fork.
+    </li>
+        <br/><img src="Práctica Github 35.png"/><br/>
+        <br/><img src="Práctica Github 36.png"/><br/>
+    <li>
+        En cada rama modificar el fichero **index.html** añadiendo vuestro nombre.
+    </li>
+        <br/><img src="Práctica Github 18.png"/><br/>
+        <br/><img src="Práctica Github 19.png"/><br/>
+    <li>
+        Con cada rama hacer un pull-request.
+    </li>
+        <br/><img src="Práctica Github 20.png"/><br/>
+        <br/><img src="Práctica Github 14.png"/><br/>
+    <li>
+        Aceptar los pull-request que lleguen a los repositorios de tu organización.
+    </li>
+        <br/><img src="Práctica Github 27.png"/><br/>
+        <br/><img src="Práctica Github 28.png"/><br/>
 </ol>
 
