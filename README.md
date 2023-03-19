@@ -145,28 +145,17 @@
          <img src="Práctica Github 25.png"/><br/> 
          <img src="Práctica Github 26.png"/><br/>
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Preguntar los nombres de usuario de GitHub de tus compañeros de trabajo en grupo, búscalos, y sigueles.
     </li>
-        git commit -m "Commit inicial"
+        <img src="Práctica Github 5.png"/><br/>
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Añadir una estrella a los repositorios del resto de tus compañeros.
     </li>
-        git commit -m "Commit inicial"
+        <img src="Práctica Github 6.png"/><br/>
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Crear una tabla de este estilo en el fichero **README.md** con la información de varios de tus compañeros de clase:
     </li>
-        git commit -m "Commit inicial"
-    <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
-    </li>
-        git commit -m "Commit inicial"
-
-    
-    
-    
-</ol>
-
-<table>
+        <table>
     <tr>
         <td>
         Nombre
@@ -177,10 +166,32 @@
     </tr>
     <tr>
         <td>
-        Nombre
+        Adrián
         </td>
         <td>
-        Enlace github
+        https://github.com/AdrianLopezGalindo03
+        </td>
+    <tr>
+        <td>
+        Sergio
+        </td>
+        <td>
+        https://github.com/sergiofrubio
         </td>
     </tr>
 </table>
+
+    <li>
+        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+    </li>
+        git commit -m "Commit inicial"
+    <li>
+        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+    </li>
+        git commit -m "Commit inicial"
+    <li>
+        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+    </li>
+        git commit -m "Commit inicial"    
+</ol>
+
