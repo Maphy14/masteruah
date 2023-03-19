@@ -1,8 +1,8 @@
 # masteruah
 <ol>
-    <li>
-    git clone https://github.com/Maphy14/masteruah
-    </li>   
+
+    <li>Crear un repositorio en vuestro GitHub llamado **masteruah**</li>
+    <ul>git clone https://github.com/Maphy14/masteruah</ul>
     
 </ol>
 
