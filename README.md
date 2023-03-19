@@ -1,10 +1,8 @@
 # masteruah
 <ol>
-
     <li>
         Crear un repositorio en vuestro GitHub llamado **masteruah**
-    </li>
-    
+    </li>   
 </ol>
 
 
