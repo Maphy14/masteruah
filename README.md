@@ -123,12 +123,14 @@
     <li>
         Poner una foto en vuestro perfil de GitHub.
     </li>
-        (Se puede acceder a dicha opción desde el apartado "Editar usuario", en el menú de inicio de la cuenta).
+        Se puede acceder a dicha opción desde el apartado "Editar usuario", en el menú de inicio de la cuenta.
         <img src="Práctica Github 21.png"/>
     <li>
         Poner el doble factor de autentificación en vuestra cuenta de GitHub.
     </li>
-        <b>Para poder conseg
+        <b>Para activarlo, es necesario acceder a la configuración del usuario, y pinchar en el apartado "Password and                      authentication".
+    <img src="Práctica Github 22.png"/>
+    <img src="Práctica Github 23.png"/>
     <li>
         Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
     </li>
