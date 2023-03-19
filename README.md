@@ -124,7 +124,7 @@
         Poner una foto en vuestro perfil de GitHub.
     </li>
         (Se puede acceder a dicha opción desde el apartado "Editar usuario", en el menú de inicio de la cuenta).
-        <img src="
+        <img src="Práctica Github 21.png"/>
     <li>
         Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
     </li>
