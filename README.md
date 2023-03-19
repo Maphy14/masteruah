@@ -143,7 +143,7 @@
         <b>Copiamos la clave del archivo, y accedemos a la opción de "SSH Keys" en la configuración de Github</b><br/>
         <b>Seleccionamos la opción de crear una llave nueva y pegamos la clave en el recuadro de texto, clickamos en aceptar.</b><br/>
          <img src="Práctica Github 25.png"/><br/> 
-         <img src="Práctica Github 3.png"/><br/>
+         <img src="Práctica Github 26.png"/><br/>
     <li>
         Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
     </li>
