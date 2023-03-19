@@ -1,5 +1,5 @@
 # masteruah
-<p>Aviso: no se explicarán los ejercicios en los que queda muy claro el propósito del comando.</p>
+<p>Aviso: no se explicarán los comandos cuyo propósito ya sea explicado en el enunciado (para evitar redundancias).</p>
 <ol>
     <li>
         Crear un repositorio en vuestro GitHub llamado **masteruah**.
