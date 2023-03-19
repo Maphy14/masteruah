@@ -130,7 +130,8 @@
     </li>
         <b>Para activarlo, es necesario acceder a la configuración del usuario, y pinchar en el apartado "Password and <br/>                authentication".<br/>
     <img src="Práctica Github 22.png"/><br/>
-    <img src="Práctica Github 23.png"/>
+    <img src="Práctica Github 23.png"/><br/>
+    
     <li>
         Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
     </li>
