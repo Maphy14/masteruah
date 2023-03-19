@@ -219,7 +219,7 @@
         Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io** de 2 organizaciones de las que no <br/>   seais ni administradiores ni colaboradores.
     </li>
         <br/><img src="Práctica Github 13.png"/><br/>    
-        <br/><img src="Práctica Github 15.png"/><br/>
+        <br/><img src="Práctica Github 16.png"/><br/>
         <br/><img src="Práctica Github 17.png"/><br/>
     <li>
         Crearos una rama en cada fork.
