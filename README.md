@@ -3,10 +3,11 @@
     <li>
         Crear un repositorio en vuestro GitHub llamado **masteruah**
     </li>   
-        git clone https://github.com/Maphy14/masteruah
+        *Véase nombre del repositorio*
     <li>
-        
+        Clonar vuestro repositorio en local
     </li>
+        git clone https://github.com/Maphy14/masteruah
 </ol>
 
 
