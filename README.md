@@ -36,7 +36,7 @@
         git push --tags<br/>
         <b>Después, se va a utilizar el siguiente comando para hacerle commit al archivo "1.txt".</b><br/>
         git commit -m "Añadir fichero 1.txt"<br/>
-        <b>Por último, hacemos un push al archivo para que se suba al repositorio remoto.</b><br/><br/>
+        <b>Por último, hacemos un push al archivo para que se suba al repositorio remoto.</b><br/>
         git push
     <li>
         Crear una rama **v0.2**.
@@ -55,7 +55,7 @@
     </li>
         <b>Primero, hacemos un commit al archivo 2.txt</b><br/>
         git commit -m "Añadir fichero 2.txt a la rama v0.2"</br>
-        <b>Segundo, subimos el archivo desde la rama v0.2 al repositorio remoto con un push</b>
+        <b>Segundo, subimos el archivo desde la rama v0.2 al repositorio remoto con un push</b><br/>
         git push -u origin v0.2
     <li>
         Posicionarse en la rama **master** (en mi caso, la rama se llama "main").
