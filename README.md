@@ -33,9 +33,9 @@
         Subir los cambios al repositorio remoto.
     </li>
         <b>Este comando permitirá subir directamente los tags al repositorio remoto</b><br/>
-        git push --tags
+        git push --tags<br/>
         <b>Después, se va a utilizar el siguiente comando para hacerle commit al archivo "1.txt"</b><br/>
-        git commit -m "Añadir fichero 1.txt"
+        git commit -m "Añadir fichero 1.txt"<br/>
     <b>Por último, hacemos un push al archivo para que se suba al repositorio remoto.</b><br/>
         git push
     <li>
