@@ -180,11 +180,10 @@
         </td>
     </tr>
 </table>
-
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Poner al profesor como colaborador del repositorio **masteruah**
     </li>
-        git commit -m "Commit inicial"
+        <img src="Práctica Github 7.png"/><br/> 
     <li>
         Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
     </li>
