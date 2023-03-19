@@ -99,24 +99,27 @@
         git branch --merge</br>
         <b>Para las ramas sin merge</b></br>
         git branch --no-merge</br>
-    </li>
-        git commit -m "Commit inicial"
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Arreglar el conflicto anterior y hacer un commit.
     </li>
-        git commit -m "Commit inicial"
+        <b>Usamos el comando vin para acceder a ambas versiones del fichero, y una vez dentro, eliminamos una de las dos.</b></br>
+        vim 1.txt</br>
+        <b>Luego, volvemos a añadir el fichero a la rama.</b></br>
+        git add 1.txt</br>
+        <b>Hacemos un commit para confirmar los cambios.</b></br>
+        git commit -m "Se ha resuelto el conflicto en el fichero 1.txt"</br>
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Crear un tag **v0.2**
     </li>
-        git commit -m "Commit inicial"
+        git tag v0.2
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Borrar la rama **v0.2**
     </li>
-        git commit -m "Commit inicial"
+        git branch -D v0.2
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Listar los distintos commits con sus ramas y sus tags.
     </li>
-        git commit -m "Commit inicial"
+        git log --oneline --decorate --all
     <li>
         Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
     </li>
