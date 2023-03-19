@@ -128,7 +128,7 @@
     <li>
         Poner el doble factor de autentificación en vuestra cuenta de GitHub.
     </li>
-        <b>Para activarlo, es necesario acceder a la configuración del usuario, y pinchar en el apartado "Password and <br/>                authentication".<br/>
+        <b>Para activarlo, es necesario acceder a la configuración del usuario, y pinchar en el apartado "Password and <br/>                authentication".</b><br/>
         <img src="Práctica Github 22.png"/><br/>
         <img src="Práctica Github 23.png"/><br/>
         <b>Cuando pulsemos en activar (enable), se nos pedirá escanear el siguiente QR con una app de autentificación (como Authy).</b>
