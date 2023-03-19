@@ -126,9 +126,9 @@
         (Se puede acceder a dicha opción desde el apartado "Editar usuario", en el menú de inicio de la cuenta).
         <img src="Práctica Github 21.png"/>
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Poner el doble factor de autentificación en vuestra cuenta de GitHub.
     </li>
-        git commit -m "Commit inicial"
+        <b>Para poder conseg
     <li>
         Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
     </li>
