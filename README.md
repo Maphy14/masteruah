@@ -121,6 +121,30 @@
     </li>
         git log --oneline --decorate --all
     <li>
+        Poner una foto en vuestro perfil de GitHub.
+    </li>
+        (Se puede acceder a dich
+    <li>
+        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+    </li>
+        git commit -m "Commit inicial"
+    <li>
+        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+    </li>
+        git commit -m "Commit inicial"
+    <li>
+        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+    </li>
+        git commit -m "Commit inicial"
+    <li>
+        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+    </li>
+        git commit -m "Commit inicial"
+    <li>
+        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+    </li>
+        git commit -m "Commit inicial"
+    <li>
         Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
     </li>
         git commit -m "Commit inicial"
