@@ -131,13 +131,17 @@
         <b>Para activarlo, es necesario acceder a la configuración del usuario, y pinchar en el apartado "Password and <br/>                authentication".<br/>
         <img src="Práctica Github 22.png"/><br/>
         <img src="Práctica Github 23.png"/><br/>
-        <b>Cuando pulsemos en activar (enable), se nos pedirá escanear el siguiente QR con una app de autentificación (como Authy).
-        <br/><img src="Práctica Github 21.png"/><br/>
+        <b>Cuando pulsemos en activar (enable), se nos pedirá escanear el siguiente QR con una app de autentificación (como Authy).</b>
+        <br/><img src="Práctica Github 24.png"/><br/>
         <b>Una vez que lo hayamos hecho, ya la tendremos activada</b>
+        <br/><img src="Práctica Github 21.png"/><br/>
     <li>
-        Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
+        Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
     </li>
-        git commit -m "Commit inicial"
+        <b>Primero, creamos el archivo que contendrá la clave con el comando "ssh-keygen" (dicho archivo es github.pub).</b><br/>
+        <b>Después, accedemos al archivo con el comando "cat ~.ssh/github.pub"</b><br/>
+        <b>Copiamos la clave que está presente en el archivo, y accedemos a la opción de "SSH Keys" en la configuración de la cuenta</b><br/>
+        git add 1.txt<br/>
     <li>
         Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
     </li>
