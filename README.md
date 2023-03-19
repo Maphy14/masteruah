@@ -4,11 +4,16 @@
     <li>
         Crear un repositorio en vuestro GitHub llamado **masteruah**
     </li>
+    
+</ol>
+
+<ul>
+
     <ul>
         git clone https://github.com/Maphy14/masteruah
     </ul>
-    
-</ol>
+
+</ul>
 
 
 <table>
