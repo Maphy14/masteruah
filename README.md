@@ -141,7 +141,6 @@
         <b>Primero, creamos el archivo que contendrá la clave con el comando "ssh-keygen" (dicho archivo es github.pub).</b><br/>
         <b>Después, accedemos al archivo con el comando "cat ~.ssh/github.pub"</b><br/>
         <b>Copiamos la clave del archivo, y accedemos a la opción de "SSH Keys" en la configuración de Github</b><br/>
-        git add 1.txt<br/>
         <b>Seleccionamos la opción de crear una llave nueva y pegamos la clave en el recuadro de texto, clickamos en aceptar.</b><br/>
          <img src="Práctica Github 25.png"/><br/> 
          <img src="Práctica Github 3.png"/><br/>
