@@ -9,9 +9,9 @@
 
 <ul>
 
-    <ul>
+    <li>
         git clone https://github.com/Maphy14/masteruah
-    </ul>
+    </li>
 
 </ul>
 
