@@ -59,7 +59,46 @@
         git push -u origin v0.2
     <li>
         Posicionarse en la rama **master** (en mi caso, la rama se llama "main").
+    </li>
         git checkout main
+    <li>
+        Hacer un merge de la rama **v0.2** en la rama **master**.
+    </li>
+        git merge v0.2
+    <li>
+        En la rama **master** poner **Hola** en el fichero **1.txt** y hacer commit.
+    </li>
+        <b>Primero, usamos el comando echo para sobreescribir los datos del fichero y añadirle "Hola".</b><br/>
+        echo "Hola" > 1.txt</br>
+        <b>Después, añadimos el archivo modificado a la rama main usando add.</b><br/>
+        git add 1.txt<br/>
+        <b>Para terminar, usamos commit para confirmar los cambios.</b><br/>
+        git commit -m "Añadido "Hola" al fichero 1.txt en la rama main"
+    <li>
+        Posicionarse en la rama **v0.2** y poner **Adios** en el fichero "1.txt" y hacer commit.
+    </li>
+        <b>Primero, usamos checkout para pasarnos a la rama v0.2</b><br/>
+        git checkout v0.2</br>
+        <b>Después, usamos el comando echo para sobreescribir los datos del fichero y añadirle "Adios".</b><br/>
+        echo "Adios" > 1.txt</br>
+        <b>Luego, añadimos el archivo modificado a la rama v0.2 usando add.</b><br/>
+        git add 1.txt<br/>
+        <b>Para terminar, usamos commit para confirmar los cambios.</b><br/>
+        git commit -m "Añadido "Adios" al fichero 1.txt en la rama v0.2"
+    <li>
+        Posicionarse de nuevo en la rama **master** y hacer un merge con la rama **v0.2**
+    </li>
+        <b>Primero, usamos checkout para cambiar de rama.</b><br/>
+        git checkout main<br/>
+        <b>Segundo, usamos merge para combinar los archivos de ambas ramas.</b><br/>
+        git merge v0.2
+    <li>
+        Listar las ramas con merge y las ramas sin merge.
+    </li>
+        <b>Para las ramas con merge</b></br>
+        git branch --merge</br>
+        <b>Para las ramas sin merge</b></br>
+        git branch --no-merge</br>
     </li>
         git commit -m "Commit inicial"
     <li>
@@ -82,7 +121,6 @@
         Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje **commit inicial**.
     </li>
         git commit -m "Commit inicial"
-    
 
     
     
